@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import web from "../src/images/1.png";
+
 
 function Card(props) {
     return (
