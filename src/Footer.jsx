@@ -1,14 +1,16 @@
-import React from 'react'
+// import React from 'react'
 
-function Footer() {
-    return (
-        <>
-        <footer className="w-100 bg-light text-center footer">
-            <p>All Rights Reserved| Tech</p>
+// function Footer() {
+//     return (
+//         <>
+//         <div className="footer bg-dark">
+//         <footer className="bg-light">
+//             <p>All Rights Reserved| Tech</p>
             
-        </footer>
-        </>
-    )
-}
+//         </footer>
+//         </div>
+//         </>
+//     )
+// }
 
-export default Footer;
+// export default Footer;

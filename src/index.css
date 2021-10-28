@@ -170,7 +170,6 @@
             justify-content: space-between;
             /* padding-top: .5rem; */
             /* padding-bottom: .5rem; */
-            margin-left: 22vh;
         }
         .container,
         .container-fluid,
@@ -201,5 +200,44 @@
         .navbar-nav .nav-link {
             padding-right: -1px;
             padding-left: 17px;
+        }
+        .navbar-brand {
+            font-size: 10rem;
+            font-weight: 1000;
+            color: yellowgreen !important;
+        }
+        .navbar-nav {
+            justify-content: center;
+        }
+        .nav-menu {
+            font-size: 4rem;
+            margin-right: 2rem;
+        }
+        .img-fluid {
+            width: 78rem;
+            height: 54rem;
+            margin-top: 65rem;
+            margin-left: -8rem;
+        }
+        #header h1 {
+            font-size: 9rem;
+            margin: 0 0 10px 0;
+            font-weight: 700;
+            color: black;
+        }
+        #header h2 {
+            font-size: 4rem;
+            color: #484848;
+        }
+        #header .btn-get-started {
+            font-weight: 900;
+            font-size: 3rem;
+            display: inline-block;
+            padding: 10px 30px;
+            border-radius: 50px;
+            transition: 0.5s;
+            color: #3498db;
+            border: 2px solid #3498db;
+            text-decoration: none;
         }
     }

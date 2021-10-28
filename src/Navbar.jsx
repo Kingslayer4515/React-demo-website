@@ -15,7 +15,7 @@ function Navbar() {
                                 <span className="navbar-toggler-icon"></span>
                             
                             
-                                <ul className="navbar-nav ml-auto mb-2 mb-lg-0">
+                                <ul className=" nav-menu navbar-nav ml-auto mb-2 mb-lg-0">
                                     <li className="nav-item">
                                         <NavLink exact className="nav-link active"activeClassName="menu_active" aria-current="page" to="/">Home</NavLink>
                                     </li>
